@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.ce2cf184.chunk.css",
+    "main.js": "/shop/static/js/main.22fa3448.chunk.js",
+    "main.js.map": "/shop/static/js/main.22fa3448.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.a52a562b.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.a52a562b.js.map",
+    "static/css/2.4be38407.chunk.css": "/shop/static/css/2.4be38407.chunk.css",
+    "static/js/2.355cdb6a.chunk.js": "/shop/static/js/2.355cdb6a.chunk.js",
+    "static/js/2.355cdb6a.chunk.js.map": "/shop/static/js/2.355cdb6a.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/shop/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ce2cf184.chunk.css.map": "/shop/static/css/main.ce2cf184.chunk.css.map",
+    "static/js/2.355cdb6a.chunk.js.LICENSE.txt": "/shop/static/js/2.355cdb6a.chunk.js.LICENSE.txt",
+    "static/media/bg.53ec0511.jpeg": "/shop/static/media/bg.53ec0511.jpeg",
+    "static/media/cart2.63eca0f9.jpeg": "/shop/static/media/cart2.63eca0f9.jpeg",
+    "static/media/lipstick.33d8e629.png": "/shop/static/media/lipstick.33d8e629.png",
+    "static/media/logo.05d66ea3.png": "/shop/static/media/logo.05d66ea3.png",
+    "static/media/mask.6f99f873.jpeg": "/shop/static/media/mask.6f99f873.jpeg",
+    "static/media/new.4a69ab86.png": "/shop/static/media/new.4a69ab86.png",
+    "static/media/perfume.502d9ca2.jpeg": "/shop/static/media/perfume.502d9ca2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a52a562b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.355cdb6a.chunk.js",
+    "static/css/main.ce2cf184.chunk.css",
+    "static/js/main.22fa3448.chunk.js"
+  ]
+}
