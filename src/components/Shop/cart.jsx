@@ -180,15 +180,13 @@ const Cart = () => {
 
   function plus(cart) {
     cart.count++;
-    let newcarts = carts.slice();
-    setCarts(newcarts);
+    setCarts(carts);
     setTotal((old) => old + cart.productPrice);
   }
   function minus(cart) {
     if (cart.count !== 1) {
       cart.count--;
-      let newcarts = carts.slice();
-      setCarts(newcarts);
+      setCarts(carts);
       setTotal((old) => old - cart.productPrice);
     }
   }
